@@ -1,0 +1,9 @@
+{% extends "index.html" %}
+{% block content %}
+<h1>This is the profile page! </h1>
+{% for x in range(10) %}
+    {% if x % 2 == 1 %}
+        <p>{{x}}</p>
+    {% endif %}
+{% endfor %}
+{% endblock %}
