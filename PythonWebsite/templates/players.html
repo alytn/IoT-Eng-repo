@@ -1,7 +1,0 @@
-{% extends "index.html" %}
-{% block title %}View All Players{% endblock %}
-{% block content %}
-    {% for item in values%}
-        <p>Username: {{item.username}}, Email: {{item.email}}</p>
-    {% endfor %}
-{% endblock %}
