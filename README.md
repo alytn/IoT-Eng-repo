@@ -8,3 +8,4 @@ Repo for IoT for Engineers class
 - https://www.youtube.com/watch?v=ruohUTTo8Kw&t=574s
 - Final References:
 - https://getbootstrap.com/docs/4.3/components/navbar/
+- https://www.youtube.com/watch?v=ADJGxOrEZAM&t=6s
