@@ -187,7 +187,7 @@ class Timer:
         self.stop_button.config(state=tk.DISABLED)
 
     def send_email(self):
-        yag_mail = yagmail.SMTP(user='aly2695@gmail.com', password="pwkn bpaz xbsz lnpp", host='smtp.gmail.com')
+        yag_mail = yagmail.SMTP(user='INSERT EMAIL HERE', password="INSERT PASSWORD HERE, host='smtp.gmail.com')
 
         hrs, rem = divmod(self.total_time, 3600)
         mins, secs = divmod(rem, 60)
