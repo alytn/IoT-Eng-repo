@@ -1,0 +1,17 @@
+{% extends 'base.html'%}
+{% block title %}
+Home Page
+{% endblock %}
+
+{% block content %}
+<h1>Home Page</h1>
+<form action="/turnon" method="POST">
+	<button type="submit">Light Up The LED!</button>
+</form>
+<form action="/turnoff" method="POST">
+        <button type="submit">Stop The LED!</button>
+</form>
+<form action="/turnblink" method="POST">
+        <button type="submit">Blink The LED!</button>
+</form>
+{% endblock %}

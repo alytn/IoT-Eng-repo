@@ -1,0 +1,13 @@
+{% extends 'base.html'%}
+{% block title %}
+Surprise
+{% endblock %}
+
+{% block content %}
+<h1>Here's a surprise!</h1>
+
+<form action="{{ url_for('views.gashapon') }}" method="POST">
+    <button type="submit" class="btn btn-primary">Activate your Surprise!</button>
+</form>
+
+{% endblock %}
