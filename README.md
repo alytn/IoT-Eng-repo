@@ -1,5 +1,8 @@
 # IoT-Eng-repo
 Repo for IoT for Engineers class
+
+***NOTE: Code involving Yagmail does NOT work due to student removing email and password in code for privacy.***
+***NOTE: Code involving Ngrok does NOT work due to the website URL needing to be manually updated every use.***
 ## References.
 - ### Midterm References:
 
