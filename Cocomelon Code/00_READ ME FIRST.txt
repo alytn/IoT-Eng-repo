@@ -1,0 +1,6 @@
+Hello!
+This folder contains the code for the flask website that was deployed on my personal laptop and housed on a Linode Linux Server.
+
+The youtube tutorials and other resources used for this code can be found in the references section in the README file in this repo.
+
+Thank you!
