@@ -5,8 +5,15 @@ Repo for IoT for Engineers class
 
 Code for Servo Motor Movement:
 "The Raspberry Pi 5 Servo Guide" by Raspberry Pi Made Easy on Youtube
+
 https://www.youtube.com/watch?v=C07i3LBRzOs&ab_channel=RaspBerryPiMadeEasy
-- https://www.youtube.com/watch?v=Wz8YKizoM9g
+
+Base code for GUI Timer:
+"Python GUI Timer" by Johnathon Karr on Youtube
+
+https://www.youtube.com/watch?v=Wz8YKizoM9g
+
+
 - https://www.youtube.com/watch?v=As-LyauYm-Q&t=120s
 - https://www.youtube.com/watch?v=ruohUTTo8Kw&t=574s
 - Final References:
