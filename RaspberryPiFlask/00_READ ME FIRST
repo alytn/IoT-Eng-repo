@@ -1,0 +1,8 @@
+Hello!
+The Cocomelon Code folder and RaspberryPiFlask folder contain the code used for the final project.
+This folder contains the code for the flask app created on the Raspberry Pi that listened for requests from the Linode server.
+It is responsible for activating the LED light and servo motors on the gashapon machine in addition to alphabetizing usernames.
+
+The youtube tutorials and other resources used for this code can be found in the references section in the README file in this repo.
+
+Thank you!
