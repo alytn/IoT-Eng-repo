@@ -37,5 +37,19 @@ https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1198/lectures/17-Graph
 ***NOTE: The student took the CS106AP course at their Summer Session during high school and still has the assignment and lecture codes.***
 
 - Final References:
-- https://getbootstrap.com/docs/4.3/components/navbar/
-- https://www.youtube.com/watch?v=ADJGxOrEZAM&t=6s
+
+Code for html Navigation menu for Flask Website from Bootstrap:
+
+https://getbootstrap.com/docs/4.3/components/navbar/
+
+Flask Website Code: 
+"Flask Tutorials" by Tech With Tim on Youtube
+https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX&si=3hsgDPaEFzoHzVst
+- Code for Website Deployment on Linode:
+"How to Deploy a Flask App to a Linux Server" by Tech With Tim on Youtube
+https://youtu.be/YFBRVJPhDGY?si=ssIXhnACsVgZIMVW
+
+Original Code & Idea behind Robotic Servo Motor Arms:
+"How to Make Servo Robotic Arm using Arduino." by Namu Lab on Youtube
+
+https://www.youtube.com/watch?v=ADJGxOrEZAM&t=6s
