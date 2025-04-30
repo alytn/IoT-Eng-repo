@@ -1,7 +1,7 @@
 # IoT-Eng-repo
 Repo for IoT for Engineers class
 ## References.
-- Midterm References:
+- ### Midterm References:
 
 Code for Servo Motor Movement:
 "The Raspberry Pi 5 Servo Guide" by Raspberry Pi Made Easy on Youtube
@@ -36,7 +36,7 @@ https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1198/lectures/17-Graph
 
 ***NOTE: The student took the CS106AP course at their Summer Session during high school and still has the assignment and lecture codes.***
 
-- Final References:
+- ### Final References:
 
 Code for html Navigation menu for Flask Website from Bootstrap:
 
