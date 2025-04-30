@@ -47,9 +47,15 @@ Flask Website Code:
 https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX&si=3hsgDPaEFzoHzVst
 - Code for Website Deployment on Linode:
 "How to Deploy a Flask App to a Linux Server" by Tech With Tim on Youtube
+
 https://youtu.be/YFBRVJPhDGY?si=ssIXhnACsVgZIMVW
 
 Original Code & Idea behind Robotic Servo Motor Arms:
 "How to Make Servo Robotic Arm using Arduino." by Namu Lab on Youtube
 
 https://www.youtube.com/watch?v=ADJGxOrEZAM&t=6s
+
+Ngrok Code:
+"How to Install Ngrok on Windows 11 | Expose your localhost to everyone | NGROK SETUP" by ProgrammingKnowledge on Youtube
+
+https://www.youtube.com/watch?v=aFwrNSfthxU&ab_channel=ProgrammingKnowledge
