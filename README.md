@@ -37,7 +37,7 @@ https://web.stanford.edu/class/cs106ap/
 
 https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1198/lectures/17-Graphics/
 
-***NOTE: The student took the CS106AP course at their Summer Session during high school and still has the assignment and lecture codes.***
+***NOTE: The student took the CS106AP course at their Summer Session during high school and still has the course assignment and lecture codes.***
 
 - ### Final References:
 
