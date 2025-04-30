@@ -11,6 +11,11 @@ Code for Servo Motor Movement:
 
 https://www.youtube.com/watch?v=C07i3LBRzOs&ab_channel=RaspBerryPiMadeEasy
 
+Code for making Ultrasound Sensor activate Servo Motors:
+"Combination of Ultrasonic Sensor and Servo Motor with Raspberry PI" by SKY CSS on Youtube
+
+https://www.youtube.com/watch?v=pCeWVfvj33g&t=1s&ab_channel=SKYCSS
+
 Base code for tkinter GUI Timer & Threading:
 "Python GUI Timer" by Johnathon Karr on Youtube
 
