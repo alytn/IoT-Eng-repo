@@ -31,7 +31,7 @@ Additional help for tkinter GUI timer:
 
 https://www.youtube.com/watch?v=ruohUTTo8Kw&t=574s
 
-Yagmail Code:
+Yagmail Code & Ultrasound Sensor Code:
 Taken from George Washington University's MAE 6291 Spring 2025 "Internet of Things for Engineers" Course Github Repo
 
 Other Tkinter code references:
